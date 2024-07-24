@@ -182,7 +182,7 @@ h1{
 }
 
 .about-card{
-	width: 526px;
+	width: 636px;
 	gap: 24px;
 }
 
@@ -190,6 +190,7 @@ h1{
 	width: 47%;
 	border: 1px solid rgba(227, 227, 227, 1);
 	box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.08);
+	padding: 16px;
 }
 
 h3{
@@ -201,7 +202,8 @@ h3{
 }
 
 .about-text{
-	width: 636px;
+	width: 526px;
+	
 }
 
 .about-text h2{
